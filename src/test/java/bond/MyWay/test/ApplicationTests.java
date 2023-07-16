@@ -1,4 +1,4 @@
-package bond.MyWay.test.Task;
+package bond.MyWay.test;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

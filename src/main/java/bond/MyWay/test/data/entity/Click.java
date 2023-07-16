@@ -1,4 +1,4 @@
-package bond.MyWay.test.Task.data.entity;
+package bond.MyWay.test.data.entity;
 
 import jakarta.persistence.*;
 import lombok.*;
@@ -9,9 +9,8 @@ import java.time.LocalDateTime;
 @Setter
 @AllArgsConstructor
 @NoArgsConstructor
-@ToString
 @Entity
-@Table(name = "numbers")
+@Table(name = "clicks")
 @Builder
 public class Click {
     @Id

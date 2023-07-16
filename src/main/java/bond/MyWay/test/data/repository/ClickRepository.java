@@ -1,6 +1,6 @@
-package bond.MyWay.test.Task.data.repository;
+package bond.MyWay.test.data.repository;
 
-import bond.MyWay.test.Task.data.entity.Click;
+import bond.MyWay.test.data.entity.Click;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 public interface ClickRepository extends JpaRepository<Click, Long> {
