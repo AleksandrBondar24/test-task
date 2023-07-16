@@ -1,5 +1,6 @@
-package bond.MyWay.test.views;
+package bond.MyWay.test.config;
 
+import bond.MyWay.test.views.LoginView;
 import com.vaadin.flow.spring.security.VaadinWebSecurity;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
